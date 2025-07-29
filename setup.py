@@ -13,7 +13,7 @@ setup(
         "seaborn==0.13.0",
         "tqdm==4.66.1"
     ],
-    author="Abhinav V",
+    author="Abhinav V (abhinav00345@gmail.com)",
     description="cryptocurrency momentum analysis system",
     python_requires=">=3.8",
 )
