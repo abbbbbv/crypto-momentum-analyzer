@@ -1,0 +1,58 @@
+================================================================================
+CRYPTO MOMENTUM ANALYSIS REPORT
+================================================================================
+Analysis Time: 2025-07-30 01:19:49 UTC
+Total Pairs Analyzed: 329
+
+TOP 10 MOMENTUM PERFORMERS
+--------------------------------------------------
+ 1. B3/USDT         | Score: 0.745 | Price: $0.0035
+ 2. CYBER/USDT      | Score: 0.732 | Price: $1.8400
+ 3. RPL/USDT        | Score: 0.725 | Price: $7.4180
+ 4. TON/USDT        | Score: 0.713 | Price: $3.3449
+ 5. OMNI/USDT       | Score: 0.700 | Price: $5.2230
+ 6. OGN/USDT        | Score: 0.700 | Price: $0.0635
+ 7. NIL/USDT        | Score: 0.687 | Price: $0.3239
+ 8. ALCH/USDT       | Score: 0.676 | Price: $0.1536
+ 9. XCN/USDT        | Score: 0.670 | Price: $0.0160
+10. ATH/USDT        | Score: 0.669 | Price: $0.0360
+
+MARKET STATISTICS
+------------------------------
+Average Momentum Score: 0.453
+Median Momentum Score:  0.438
+Highest Score:          0.745
+Lowest Score:           0.339
+Standard Deviation:     0.068
+
+MARKET SENTIMENT BREAKDOWN
+-----------------------------------
+Strongly Bullish (>0.60):  18 pairs (5.5%)
+Neutral (0.40-0.60):      266 pairs (80.9%)
+Bearish (<0.40):           45 pairs (13.7%)
+
+TIMEFRAME ANALYSIS
+-------------------------
+15min  Weight: 35.0%
+30min  Weight: 25.0%
+60min  Weight: 20.0%
+240min Weight: 15.0%
+1Day   Weight:  5.0%
+
+ACTIONABLE TRADING SIGNALS
+----------------------------------------
+STRONG BUY SIGNALS:
+   • B3/USDT (Score: 0.745)
+   • CYBER/USDT (Score: 0.732)
+   • RPL/USDT (Score: 0.725)
+   • TON/USDT (Score: 0.713)
+BUY SIGNALS:
+   • OMNI/USDT (Score: 0.700)
+   • OGN/USDT (Score: 0.700)
+   • NIL/USDT (Score: 0.687)
+   • ALCH/USDT (Score: 0.676)
+   • XCN/USDT (Score: 0.670)
+
+================================================================================
+Report generated successfully!
+================================================================================
